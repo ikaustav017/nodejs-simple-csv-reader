@@ -1,0 +1,19 @@
+{
+  "name": "node_simple_csv_reader",
+  "version": "1.0.0",
+  "description": "Reading a csv file using streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "csv",
+    "parse",
+    "streams"
+  ],
+  "author": "Kaustav Nag",
+  "license": "ISC",
+  "dependencies": {
+    "split": "^1.0.0"
+  }
+}

@@ -1,0 +1,5 @@
+Column,Type,Nullable,Valid Values
+Name,String,N,
+Email,Email,Y,
+Phone,String,N,
+Zip Code,Int,N,
